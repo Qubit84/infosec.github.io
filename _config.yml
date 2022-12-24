@@ -1,7 +1,7 @@
 title: InfoSec
 description: "Abstracts on information security"
 author:
-  name: "Qubit86"
+  name: "InfoSec"
   email:
   url: 
 
@@ -27,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Qubit86"
+owner : "Qubit84"
 year : "2022"
